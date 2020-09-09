@@ -1,2 +1,2 @@
 # tetsCompartir
-testCompartir y transferir repo
+testCompartir y transferir repositorio
